@@ -47,7 +47,7 @@ def create_sample_locations_file(filename='locations.json'):
 def generate_location_qr(location_data):
     """Generate QR code for a location"""
     # Create QR code data
-    qr_data = f"LOCATION:{location_data['id']}|{location_data['name']}"
+    qr_data = str(location_data['id'])
     
     # Generate QR code
     qr = qrcode.QRCode(

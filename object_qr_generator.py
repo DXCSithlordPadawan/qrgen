@@ -95,7 +95,7 @@ def create_sample_objects_file(filename='objects.json'):
 def generate_object_qr(object_data):
     """Generate QR code for an object"""
     # Create QR code data
-    qr_data = f"OBJECT:{object_data['id']}|{object_data['name']}|{object_data.get('serial', 'N/A')}"
+    qr_data = str(object_data['id'])
     
     # Generate QR code
     qr = qrcode.QRCode(
