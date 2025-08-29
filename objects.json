@@ -1,0 +1,60 @@
+{
+  "objects": [
+    {
+      "id": "SADrone",
+      "name": "SADrone",
+      "category": "Unmanned Aircraft",
+      "serial": "Russian Federation",
+      "description": "Sokol Altius Drone"
+    },
+    {
+      "id": "KA50",
+      "name": "KA50",
+      "category": "Aircraft",
+      "serial": "Russian Federation",
+      "description": "Ka-50 Helicopter"
+    },
+    {
+      "id": "S500",
+      "name": "S500",
+      "category": "Vehicle",
+      "serial": "Russian Federation",
+      "description": "S-500 Prometheus"
+    },
+    {
+      "id": "S400",
+      "name": "S400",
+      "category": "Vehicle",
+      "serial": "Russian Federation",
+      "description": "SA-21 Growler"
+    },
+    {
+      "id": "Admiral",
+      "name": "Admiral",
+      "category": "Vessel",
+      "serial": "Russian Federation",
+      "description": "SA-21 Growler"
+    },
+    {
+      "id": "T90",
+      "name": "T90",
+      "category": "main-battle-tank",
+      "serial": "Russian Federation",
+      "description": "T-90 Main Battle Tank"
+    },
+    {
+      "id": "SSu57",
+      "name": "SSu57",
+      "category": "Aircraft",
+      "serial": "Russian Federation",
+      "description": "Sukhoi Su-57 Aircraft"
+    },
+    {
+      "id": "35GdsMRBde",
+      "name": "35GdsMRBde",
+      "category": "militaryorganization",
+      "serial": "Russian Federation",
+      "description": "35th Guards Motor Rifle Brigade"
+    }
+  ]
+}
